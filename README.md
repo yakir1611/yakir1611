@@ -18,9 +18,9 @@
 ## 🚀 Featured projects
 
 <p align="center">
-  <a href="https://github.com/yakir1611/RummikubSolver"><img alt="RummikubSolver" src="https://github-readme-stats.vercel.app/api/pin/?username=yakir1611&repo=RummikubSolver&theme=github_dark&hide_border=true&cache_seconds=86400" /></a>
-  <a href="https://github.com/yakir1611/Advanced_Gmail"><img alt="Advanced_Gmail" src="https://github-readme-stats.vercel.app/api/pin/?username=yakir1611&repo=Advanced_Gmail&theme=github_dark&hide_border=true&cache_seconds=86400" /></a>
-  <a href="https://github.com/yakir1611/BallGame"><img alt="BallGame" src="https://github-readme-stats.vercel.app/api/pin/?username=yakir1611&repo=BallGame&theme=github_dark&hide_border=true&cache_seconds=86400" /></a>
+  <a href="https://github.com/yakir1611/RummikubSolver"><img alt="RummikubSolver" src="https://github-readme-stats.vercel.app/api/pin/?username=yakir1611&repo=RummikubSolver&theme=github_dark&hide_border=true&cache_seconds=86500" /></a>
+  <a href="https://github.com/yakir1611/Advanced_Gmail"><img alt="Advanced_Gmail" src="https://github-readme-stats.vercel.app/api/pin/?username=yakir1611&repo=Advanced_Gmail&theme=github_dark&hide_border=true&cache_seconds=86500" /></a>
+  <a href="https://github.com/yakir1611/BallGame"><img alt="BallGame" src="https://github-readme-stats.vercel.app/api/pin/?username=yakir1611&repo=BallGame&theme=github_dark&hide_border=true&cache_seconds=86500" /></a>
 </p>
 
 - **RummikubSolver** · Android app that recognizes Rummikub tiles with a custom computer-vision model and computes the optimal move (team project)
