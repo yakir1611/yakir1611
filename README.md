@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%D7%99%D7%A7%D7%99%D7%A8-%D7%A9%D7%A8%D7%A2%D7%91%D7%99-6669a833b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yakir-sharabi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:1000yakir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1000yakir%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
